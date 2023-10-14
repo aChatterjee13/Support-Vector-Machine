@@ -1,4 +1,4 @@
-# SVM Digit Recognization Assignment
+# SVM Digit Recognization
 
 # All coding are done in MacOS - Sierra 
 # Author - Anindya Chatterjee
